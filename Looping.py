@@ -1,3 +1,3 @@
-# Print all even numbers from 1 to 20 using looping
+# Print all even numbers from 1 to 20 using loop
 for i in range(2, 21, 2):
     print(i)

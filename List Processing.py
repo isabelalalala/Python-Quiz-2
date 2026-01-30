@@ -9,5 +9,5 @@ for i in range(5):
 # Sort the numbers from highest to lowest
 numbers.sort(reverse=True)
 
-# Display the sorted out list
+# Display the sorted list
 print("Numbers from highest to lowest:", numbers)

@@ -1,4 +1,4 @@
-# Get any number from the user
+# Get a number from the user
 number = float(input("Enter a number: "))
 
 # Check if the number is positive, negative, or zero

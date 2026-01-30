@@ -2,5 +2,5 @@
 name = input("Enter your name: ")
 age = input("Enter your age: ")
 
-# Display the formatted message
+# Display message
 print(f"Your name is: {name}, you are {age} years old.")

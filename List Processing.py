@@ -1,7 +1,7 @@
-# Create an empty list to store the numbers
+# Create an empty list to store the numbers in
 numbers = []
 
-# Get five numbers from the user
+# User input
 for i in range(5):
     num = float(input("Input a number: "))
     numbers.append(num)
@@ -9,5 +9,5 @@ for i in range(5):
 # Sort the numbers from highest to lowest
 numbers.sort(reverse=True)
 
-# Display the sorted list
+# Display the sorted out list
 print("Numbers from highest to lowest:", numbers)
